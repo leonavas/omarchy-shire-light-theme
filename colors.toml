@@ -1,0 +1,48 @@
+# Shire — a hobbit-hole in the late afternoon.
+#
+# The same theme as Shire Night, an hour or two earlier: still dark, still
+# loam and lamplight, but with daylight leaking in around the round door.
+# Every color is the night palette lifted one gentle step — the earth a shade
+# looser, the parchment a shade brighter, the pasture a touch more sunlit.
+# Nothing changes hue; everything relaxes.
+#
+# Nothing here is fully saturated and nothing is pure black or pure white.
+# That is the whole point: it should feel like second breakfast, not a cockpit.
+
+mode = "dark"
+
+accent    = "#A3C46E"  # sunlit pasture — borders, cursor, selected text
+selection = "#3C4A31"  # grass in shadow
+muted     = "#687A53"  # hedgerow
+
+background        = "#20261A"  # loam under the Hill, daylight leaking in
+dark_background   = "#191E14"  # deeper earth
+darker_background = "#12160D"  # root cellar
+lighter_background= "#2B3220"  # turned soil
+
+foreground        = "#EAE2C9"  # sunlit parchment
+light_foreground  = "#CDC4A8"  # linen
+dark_foreground   = "#7A8266"  # dim moss — comments, inactive text
+bright_foreground = "#F8F2DE"  # candleflame
+
+hyprland_active_border   = "rgba(a3c46eee) rgba(e0b44fee) 45deg"  # grass into lamplight
+hyprland_inactive_border = "rgba(46523aaa)"
+
+active_border_color   = "#EAE2C9"
+active_tab_background = "#48563B"
+
+red     = "#CC7058"  # chimney brick
+yellow  = "#E0B44F"  # brass lantern
+orange  = "#D68F50"  # pipeweed ember
+green   = "#9CBF68"  # pasture
+cyan    = "#8DB497"  # The Water
+blue    = "#8BA9BC"  # Shire sky
+magenta = "#B490AB"  # elderberry
+brown   = "#8A6A48"  # oak beam
+
+bright_red     = "#E48F74"
+bright_yellow  = "#F1CF7E"
+bright_green   = "#B8D988"
+bright_cyan    = "#ABD0B3"
+bright_blue    = "#ACC9D9"
+bright_magenta = "#D2B2C9"
