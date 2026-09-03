@@ -31,6 +31,11 @@ omarchy theme install https://github.com/leonavas/omarchy-shire-light-theme
 Full set in [`colors.toml`](colors.toml) — the Shire Night palette, hue for
 hue, each tone a shade lighter.
 
+If you edit it, keep the notes on their own line — never after the value.
+Several apps that read `colors.toml` split on `=` and keep everything that
+follows, so `foreground = "#EAE2C9"  # parchment` reaches them as an invalid
+colour and their text renders transparent.
+
 ## Round corners
 
 Omarchy drops `.lua` from themes it installs from a repo, so the corners don't

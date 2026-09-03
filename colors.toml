@@ -11,38 +11,58 @@
 
 mode = "dark"
 
-accent    = "#A3C46E"  # sunlit pasture — borders, cursor, selected text
-selection = "#3C4A31"  # grass in shadow
-muted     = "#687A53"  # hedgerow
+# sunlit pasture — borders, cursor, selected text
+accent = "#A3C46E"
+# grass in shadow
+selection = "#3C4A31"
+# hedgerow
+muted = "#687A53"
 
-background        = "#20261A"  # loam under the Hill, daylight leaking in
-dark_background   = "#191E14"  # deeper earth
-darker_background = "#12160D"  # root cellar
-lighter_background= "#2B3220"  # turned soil
+# loam under the Hill, daylight leaking in
+background = "#20261A"
+# deeper earth
+dark_background = "#191E14"
+# root cellar
+darker_background = "#12160D"
+# turned soil
+lighter_background = "#2B3220"
 
-foreground        = "#EAE2C9"  # sunlit parchment
-light_foreground  = "#CDC4A8"  # linen
-dark_foreground   = "#7A8266"  # dim moss — comments, inactive text
-bright_foreground = "#F8F2DE"  # candleflame
+# sunlit parchment
+foreground = "#EAE2C9"
+# linen
+light_foreground = "#CDC4A8"
+# dim moss — comments, inactive text
+dark_foreground = "#7A8266"
+# candleflame
+bright_foreground = "#F8F2DE"
 
-hyprland_active_border   = "rgba(a3c46eee) rgba(e0b44fee) 45deg"  # grass into lamplight
+# grass into lamplight
+hyprland_active_border = "rgba(a3c46eee) rgba(e0b44fee) 45deg"
 hyprland_inactive_border = "rgba(46523aaa)"
 
-active_border_color   = "#EAE2C9"
+active_border_color = "#EAE2C9"
 active_tab_background = "#48563B"
 
-red     = "#CC7058"  # chimney brick
-yellow  = "#E0B44F"  # brass lantern
-orange  = "#D68F50"  # pipeweed ember
-green   = "#9CBF68"  # pasture
-cyan    = "#8DB497"  # The Water
-blue    = "#8BA9BC"  # Shire sky
-magenta = "#B490AB"  # elderberry
-brown   = "#8A6A48"  # oak beam
+# chimney brick
+red = "#CC7058"
+# brass lantern
+yellow = "#E0B44F"
+# pipeweed ember
+orange = "#D68F50"
+# pasture
+green = "#9CBF68"
+# The Water
+cyan = "#8DB497"
+# Shire sky
+blue = "#8BA9BC"
+# elderberry
+magenta = "#B490AB"
+# oak beam
+brown = "#8A6A48"
 
-bright_red     = "#E48F74"
-bright_yellow  = "#F1CF7E"
-bright_green   = "#B8D988"
-bright_cyan    = "#ABD0B3"
-bright_blue    = "#ACC9D9"
+bright_red = "#E48F74"
+bright_yellow = "#F1CF7E"
+bright_green = "#B8D988"
+bright_cyan = "#ABD0B3"
+bright_blue = "#ACC9D9"
 bright_magenta = "#D2B2C9"
