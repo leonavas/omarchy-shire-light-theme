@@ -23,7 +23,7 @@ hl.config({
   -- a plain arc, so corners bulge slightly — softer, less machined.
   -- Solitude uses 6/3; the Shire wants more.
   decoration = {
-    rounding = 10,
+    rounding = 0,
     rounding_power = 3,
   },
 })
