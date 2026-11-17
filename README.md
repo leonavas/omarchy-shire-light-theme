@@ -36,6 +36,18 @@ Several apps that read `colors.toml` split on `=` and keep everything that
 follows, so `foreground = "#EAE2C9"  # parchment` reaches them as an invalid
 colour and their text renders transparent.
 
+## Backgrounds
+
+Two of them. Switch with `Super + Ctrl + Space`.
+
+| | |
+|---|---|
+| `0-hobbiton-trees.mp4` | **default** — a 7 s seamless loop: birches sway in a summer breeze, a wisp of smoke rises from the chimney. 2560×1440, no audio. |
+| `1-hobbiton-at-midday.jpg` | the still, for when nothing should move. |
+
+The video keeps playing behind transparent windows, and blur is redrawn every
+frame while it does. If that costs too much battery, pick the still.
+
 ## Round corners
 
 Omarchy drops `.lua` from themes it installs from a repo, so the corners don't
